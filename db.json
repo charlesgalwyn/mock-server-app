@@ -1,0 +1,125 @@
+{
+  "books": [
+    {
+      "image_url": "https://m.media-amazon.com/images/I/5165He67NEL.jpg",
+      "book_name": "nane varuven",
+      "author": "lkhsafoas",
+      "genre": "fiction",
+      "edition": "2021",
+      "publisher": "Bloomsbury",
+      "cost": "1299",
+      "borrowed": false,
+      "id": 1
+    },
+    {
+      "image_url": "https://webneel.com/daily/sites/default/files/images/daily/09-2019/2-movie-poster-design-aladdin-disney-glossy-composite.jpg",
+      "book_name": "Harry Potter and the Philosopher's Stone",
+      "author": "fani dani",
+      "genre": "history",
+      "edition": "2021",
+      "publisher": "Bloomsbury",
+      "cost": "1099",
+      "borrowed": false,
+      "id": 3
+    },
+    {
+      "image_url": "https://i.pinimg.com/originals/a3/55/83/a3558350a8f77d97d7ead34811cc1265.jpg",
+      "book_name": "Harry Potter and the Philosopher's Stone",
+      "author": "J. K. Rowling",
+      "genre": "tech",
+      "edition": "2021",
+      "publisher": "Bloomsbury",
+      "cost": 999,
+      "borrowed": false,
+      "id": 4
+    },
+    {
+      "image_url": "https://assets.mubicdn.net/images/notebook/post_images/19893/images-w1400.jpg?1449196747",
+      "book_name": "Harry Potter and the Philosopher's Stone",
+      "author": "J. K. Rowling",
+      "genre": "business",
+      "edition": "2021",
+      "publisher": "Bloomsbury",
+      "cost": 899,
+      "borrowed": false,
+      "id": 5
+    },
+    {
+      "image_url": "https://www.washingtonpost.com/graphics/2019/entertainment/oscar-nominees-movie-poster-design/img/black-panther-web.jpg",
+      "book_name": "Harry Potter and the Philosopher's Stone",
+      "author": "J. K. Rowling charles",
+      "genre": "fiction",
+      "edition": "2021",
+      "publisher": "aibajsbalkjbf",
+      "cost": "799",
+      "borrowed": false,
+      "id": 6
+    },
+    {
+      "image_url": "https://rukminim1.flixcart.com/image/416/416/k8q8nm80/poster/k/h/r/medium-poster-harry-potter-and-the-sorcerer-s-stone-movie-poster-original-imafqzdcyxjspeqw.jpeg?q=70",
+      "book_name": "Harry Potter and the Philosopher's Stone",
+      "author": "J. K. Rowling",
+      "genre": "science",
+      "edition": "2021",
+      "publisher": "Bloomsbury",
+      "cost": 699,
+      "borrowed": false,
+      "id": 7
+    },
+    {
+      "image_url": "https://m.media-amazon.com/images/I/5165He67NEL.jpg",
+      "book_name": "Harry Potter and the Philosopher's Stone",
+      "author": "J. K. Rowling",
+      "genre": "history",
+      "edition": "2021",
+      "publisher": "Bloomsbury",
+      "cost": 599,
+      "borrowed": false,
+      "id": 8
+    },
+    {
+      "image_url": "https://m.media-amazon.com/images/I/5165He67NEL.jpg",
+      "book_name": "Harry Potter and the Philosopher's Stone",
+      "author": "J. K. Rowling",
+      "genre": "tech",
+      "edition": "2021",
+      "publisher": "Bloomsbury",
+      "cost": 499,
+      "borrowed": false,
+      "id": 9
+    },
+    {
+      "image_url": "https://m.media-amazon.com/images/I/5165He67NEL.jpg",
+      "book_name": "Harry Potter and the Philosopher's Stone",
+      "author": "J. K. Rowling",
+      "genre": "business",
+      "edition": "2021",
+      "publisher": "Bloomsbury",
+      "cost": 399,
+      "borrowed": false,
+      "id": 10
+    },
+    {
+      "author": "virat kohli ",
+      "book_name": "caoishoa",
+      "borrowed": false,
+      "cost": "3000",
+      "edition": "2022",
+      "genre": "cricket",
+      "image_url": "https://cdn.britannica.com/63/211663-050-A674D74C/Jonny-Bairstow-batting-semifinal-match-England-Australia-2019.jpg",
+      "publisher": "dani",
+      "id": 11
+    },
+    {
+      "author": "J. K. Rowling charles",
+      "book_name": "master",
+      "borrowed": false,
+      "cost": "34566",
+      "edition": "2011",
+      "genre": "movie",
+      "image_url": "https://cdn.britannica.com/63/211663-050-A674D74C/Jonny-Bairstow-batting-semifinal-match-England-Australia-2019.jpg",
+      "publisher": "Bloomsbur",
+      "id": 12
+    }
+  ]
+}
